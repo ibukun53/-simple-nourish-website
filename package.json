@@ -1,0 +1,32 @@
+{
+  "name": "simple-nourish-website",
+  "version": "1.0.0",
+  "description": "![]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibukun53/simple-nourish-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibukun53/simple-nourish-website/issues"
+  },
+  "homepage": "https://github.com/ibukun53/simple-nourish-website#readme",
+  "devDependencies": {
+    "hint": "^6.1.10",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "defaults",
+    "not IE 11",
+    "maintained node versions"
+  ]
+}
